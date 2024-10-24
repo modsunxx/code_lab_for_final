@@ -1,3 +1,2 @@
-# code_lab_for_final
-codeที่จะใช้ในการสอบปลายภาควิชา cpg 1/67 ict rmutto
-
+# LAB_FOR_FINAL
+กดเข้าไปดูเเค่ตัวcodeก็พอเด้ออ้าย โฟลเดอร์.vscodeบ่ต้องไปยุ่งเด้อสู
